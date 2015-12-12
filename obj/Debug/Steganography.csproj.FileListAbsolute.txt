@@ -1,0 +1,20 @@
+C:\Users\lab_ac3.STD\Desktop\Koder\bin\Debug\Koder.exe
+C:\Users\lab_ac3.STD\Desktop\Koder\bin\Debug\Koder.pdb
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.csprojResolveAssemblyReference.cache
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.About.resources
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.InputBox.resources
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.Form1.resources
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.csproj.GenerateResource.Cache
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.exe
+C:\Users\lab_ac3.STD\Desktop\Koder\obj\Debug\Koder.pdb
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.About.resources
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.InputBox.resources
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.Form1.resources
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.csproj.GenerateResource.Cache
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.pdb
+G:\POD\Stenografia\POD last lab w C Sharp\bin\Debug\Steganography.exe
+G:\POD\Stenografia\POD last lab w C Sharp\bin\Debug\Steganography.pdb
+G:\POD\Stenografia\POD last lab w C Sharp\obj\Debug\Steganography.exe
+C:\Users\Aredhel\Desktop\Steganography Iwona Maraskiewicz\obj\Debug\Steganography.exe
+C:\Users\Aredhel\Desktop\Steganography Iwona Maraskiewicz\obj\Debug\Steganography.pdb
